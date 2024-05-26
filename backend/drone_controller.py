@@ -10,7 +10,6 @@ class DroneController:
         else:
             self.drone_api.fly_to(command['waypoint'])
 
-# Example usage
 if __name__ == "__main__":
     class MockDroneAPI:
         def takeoff(self):
