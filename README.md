@@ -29,7 +29,7 @@ This project leverages a Large Language Model (LLM) to autonomously control dron
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/autonomous-drone-navigation.git
+   git clone https://github.com/MrOlof/ADNLLM.git
    cd autonomous-drone-navigation
 ```
 python -m venv venv
