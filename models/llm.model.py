@@ -82,7 +82,7 @@ class LLMModel:
 
 #  usage
 if __name__ == "__main__":
-    # Replace 'your-openai-api-key' with your actual OpenAI API key
+    # Replace 'api-key' with your actual OpenAI API key
     api_key = "your-openai-api-key"
     
     # Initialize the LLMModel with the OpenAI API key
