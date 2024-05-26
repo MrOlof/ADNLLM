@@ -12,7 +12,7 @@ class CommandProcessor:
         )
         return response.choices[0].text.strip()
 
-# Example usage
+
 if __name__ == "__main__":
     processor = CommandProcessor(api_key="your-openai-api-key")
     command = "Fly to the designated waypoint and hover."
