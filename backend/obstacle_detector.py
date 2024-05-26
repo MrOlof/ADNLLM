@@ -11,7 +11,6 @@ class ObstacleDetector:
                 obstacles.append(data['position'])
         return obstacles
 
-# Example usage
 if __name__ == "__main__":
     sensor_data = [
         {"position": (1, 2), "distance": 1.5, "threshold": 2.0},
