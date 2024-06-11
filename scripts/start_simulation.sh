@@ -1,4 +1,4 @@
 #!/bin/bash
 
-# Start environment simulation
+# Start env simulation
 python backend/environment_simulator.py
